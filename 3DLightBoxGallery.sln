@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "3DLightBoxGallery", "3DLightBoxGallery\", "{411C6D6F-A9B5-4FAE-B513-EF3C5B509B26}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51340"
+		Debug.AspNetCompiler.PhysicalPath = "3DLightBoxGallery\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51340\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51340"
+		Release.AspNetCompiler.PhysicalPath = "3DLightBoxGallery\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51340\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51340"
+		SlnRelativePath = "3DLightBoxGallery\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411C6D6F-A9B5-4FAE-B513-EF3C5B509B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411C6D6F-A9B5-4FAE-B513-EF3C5B509B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E5ED16-55D6-4C9D-9931-AB7A24AAF712}
+	EndGlobalSection
+EndGlobal
